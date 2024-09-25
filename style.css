@@ -1,0 +1,37 @@
+a{
+    /* text-decoration: none; */
+}
+#elso{
+
+    border-bottom: 2px solid red;
+}
+table{
+    border-collapse: collapse;
+}
+#masodik{
+
+    border-top: 2px solid red;
+}
+td, h1{
+    color: #000066;
+    font-family: Monotype Corsiva;
+    font-weight: 900;
+}
+li{
+    font-size: 15px; 
+    margin: 0;
+    padding: 0;
+}
+#utcso{
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+}
+div{
+margin-left: 30%;
+        /* margin: auto;
+
+        padding: 10px;
+
+     */
+
+}
